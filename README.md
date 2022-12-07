@@ -30,3 +30,6 @@ php artisan serve
 ```
 
 Puede encontrar este proyecto en [Examen-ISW811]()
+
+## Contributors
+[![](https://gitlab.com/uploads/-/system/user/avatar/1607844/avatar.png?width=400)](https://gitlab.com/FrancizHernandez)
