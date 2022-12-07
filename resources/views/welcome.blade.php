@@ -39,7 +39,7 @@
 
             <div >
                 <div>
-                    <h2 style="color:red">Esto es una aplicación de Laravel para el curso ISW811</h2>
+                    <h2 style="color:red">Examen Final ISW811 - Francinie Hernandez Araya</h2>
                 </div>
                 <div>
                     <img  width="500" height="500" style="text-align: center" src="https://cdn.pixabay.com/photo/2019/05/14/17/07/web-development-4202909_960_720.png">
